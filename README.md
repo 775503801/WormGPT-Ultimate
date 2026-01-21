@@ -61,3 +61,9 @@ This tool is for educational purposes only. The developer is not responsible for
 2. **برمجة احترافية:** صناديق أكواد برمجية منسقة مع أزرار نسخ سريعة.
 3. **واجهة عصرية:** تصميم Dark Mode جذاب مع قائمة جانبية لإدارة المحادثات.
 4. **دعم العربية:** ترتيب النص من اليمين لليسار بشكل صحيح.
+
+
+## ✍️ تطوير المهندس
+**محمد امين صالح البارده (Eng. mohammed Ameen Saleh Albareda)**  
+أخصائي حلول الذكاء الاصطناعي المتقدمة  
+[GitHub](https://github.com/775503801) | [LinkedIn](www.linkedin.com/in/محمد-امين-898953272/)
